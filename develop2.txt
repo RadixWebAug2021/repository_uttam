@@ -1,1 +1,2 @@
+- File for developer 2 branch is modified
 - first line of file
